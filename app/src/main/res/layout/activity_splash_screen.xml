@@ -10,7 +10,7 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@color/light_gray">
+         android:background="@color/light_gray">
 
 
         <ImageView
@@ -42,7 +42,7 @@
             android:id="@+id/version_Name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="welcome to all"
+            android:text="@string/welcome_to_all"
             android:textStyle="bold"
             android:textSize="20dp"
             app:layout_constraintEnd_toEndOf="@+id/imageView"

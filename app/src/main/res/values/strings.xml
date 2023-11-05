@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Musicians</string>
+    <string name="welcome_to_all">welcome to all</string>
 </resources>
